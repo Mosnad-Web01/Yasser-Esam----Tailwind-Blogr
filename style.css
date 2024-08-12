@@ -1,0 +1,10 @@
+/* I have used some custome css code in order to match the design as close and posible  */
+
+.my-header {
+  border-radius: 0px 0px 0px 100px;
+  background: linear-gradient(
+    to right,
+    hsl(13, 100%, 72%),
+    hsl(353, 100%, 62%)
+  );
+}
